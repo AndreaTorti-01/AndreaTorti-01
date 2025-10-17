@@ -8,11 +8,11 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **CFD Software written from scratch entirely in C++! Can run on CPU (Even in parallel with OpenMP) or on your NVIDIA GPU!**
 
-<img src="ball-80.gif" width="600" />
+<img src="ball-80.gif" width="400" />
 
 **On GPU, performance was the top priority, so I chose the structure of arrays approach. On CPU, arrays of structures is used for better code readability.**
 
-<img src="rho-coalescence.png" width="600" />
+<img src="rho-coalescence.png" width="300" />
 
 **Yes, the performance was profiled with callgrind. Down to the single function call.**
 
@@ -30,11 +30,11 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **My friend chatgpt wrote some python software to cut 1-second samples...**
 
-<img src="snip_snip.gif" width="600" />
+<img src="snip_snip.gif" width="300" />
 
-**And I trained a tensorflow deep learning model to recognize what the person wearing the arduino was doing! How cool is that? Oh and it runs ON the actual arduino, if that wasn't enough.**
+**And I trained a tensorflow deep learning model to recognize what the person wearing the arduino was doing! How cool is that? Oh and it runs ON the actual arduino!**
 
-<img src="confusion_matrix.png" width="600" />
+<img src="confusion_matrix.png" width="500" />
 
 ---
 
@@ -44,6 +44,12 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 ---
 
-**Oh yeah I take a Vulkan course at university. Here's a little game running on an engine... written from scratch.**
+**Oh yeah I took a Vulkan course at university. Here's a little game running on an engine... written from scratch.**
 
-<img src="gif3.gif" width="600" />
+<img src="gif3.gif" width="500" />
+
+---
+
+**Here goes the first thing I ever wrote in CUDA: Took an existing software that compresses molecule data (Smiles representation) and made it run on the GPU... 44 times faster! Oh and that's only because the disk couldn't keep up!**
+
+<img src="molcomp.png" width="400" />
