@@ -6,24 +6,44 @@ During my academic career, I loved hands-on projects the most, where I could hav
 
 Here's a preview of some of my work, but there's always something more that's work in progress... always building, always learning!
 
-CFD Software written from scratch entirely in C++! Can run on CPU (Even in parallel with OpenMP) or on your NVIDIA GPU!
-![alt text](ball-80.gif)
-On GPU, performance was the top priority, so I chose the structure of arrays approach. On CPU, arrays of structures is used for better code readability.
-![alt text](rho-coalescence.png)
-Yes, the performance was profiled with callgrind. Down to the single function call.
-![alt text](callgrind-lid-driven-100-cpu-parallel.png)
-Did you think I wouldn't profile the GPU too?
-![alt text](cuda-kernels-detail.png)
+**CFD Software written from scratch entirely in C++! Can run on CPU (Even in parallel with OpenMP) or on your NVIDIA GPU!**
+
+<img src="ball-80.gif" width="600" />
+
+**On GPU, performance was the top priority, so I chose the structure of arrays approach. On CPU, arrays of structures is used for better code readability.**
+
+<img src="rho-coalescence.png" width="600" />
+
+**Yes, the performance was profiled with callgrind. Down to the single function call.**
+
+<img src="callgrind-lid-driven-100-cpu-parallel.png" width="600" />
+
+**Did you think I wouldn't profile the GPU too?**
+
+<img src="cuda-kernels-detail.png" width="600" />
+
 ---
-Onto the next one. The data you see is from an Arduino's motion sensors.
-![alt text](pass_shoot.png)
-My friend chatgpt wrote some python software to cut 1-second samples...
-![alt text](snip_snip.gif)
-And I trained a tensorflow deep learning model to recognize what the person wearing the arduino was doing! How cool is that? Oh and it runs ON the actual arduino, if that wasn't enough.
-![alt text](confusion_matrix.png)
+
+**Onto the next one. The data you see is from an Arduino's motion sensors.**
+
+<img src="pass_shoot.png" width="600" />
+
+**My friend chatgpt wrote some python software to cut 1-second samples...**
+
+<img src="snip_snip.gif" width="600" />
+
+**And I trained a tensorflow deep learning model to recognize what the person wearing the arduino was doing! How cool is that? Oh and it runs ON the actual arduino, if that wasn't enough.**
+
+<img src="confusion_matrix.png" width="600" />
+
 ---
-Do you like trading? Here's a little trading game for you! Done over a weekend, needs some polish. At least it works!
-![alt text](game.png)
+
+**Do you like trading? Here's a little trading game for you! Done over a weekend, needs some polish. At least it works!**
+
+<img src="game.png" width="600" />
+
 ---
-Oh yeah I take a Vulkan course at university. Here's a little game running on an engine... written from scratch.
-![alt text](gif3.gif)
+
+**Oh yeah I take a Vulkan course at university. Here's a little game running on an engine... written from scratch.**
+
+<img src="gif3.gif" width="600" />
