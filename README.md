@@ -24,7 +24,25 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 ---
 
-**Onto the next one. The data you see is from an Arduino's motion sensors.**
+**Onto the next one. My master thesis, actually. Have you ever eaten instant noodles? Well, sometimes their packaging is not perfectly sealed...**
+
+<img src="defect close up.jpg" width="300" />
+
+**Having only about a hundred or so profilometer scans, I had to make the computer do its magic to split the good ones from the bad ones. The obvious solution is machine learning, but it's not easy at all with a low sample count like that. I chose to pre-train my model on synthetic data generated with blender on packages like the one below:**
+
+<img src="blender synthetic package.png" width="400" />
+
+**After proper automatic pre-processing of each package profile...**
+
+<img src="bounding box cut and paste.png" width="600" />
+
+**The accuracy went to 89% with very good spot detection of defects! Mission accomplished!**
+
+<img src="package 57 with defect detected.jpg" width="400" />
+
+---
+
+**Another one! The data you see is from an Arduino's motion sensors.**
 
 <img src="pass_shoot.png" width="600" />
 
@@ -38,7 +56,7 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 ---
 
-**Do you like trading? Here's a little trading game for you! Done over a weekend, needs some polish. At least it works!**
+**Do you like trading? Here's a little trading game for you! Done over a weekend, needs some polish. At least it works (sometimes)**
 
 <img src="game.png" width="600" />
 
@@ -47,6 +65,20 @@ Here's a preview of some of my work, but there's always something more that's wo
 **Oh yeah I took a Vulkan course at university. Here's a little game running on an engine... written from scratch.**
 
 <img src="gif3.gif" width="500" />
+
+---
+
+**Here you go: two static websites I made. First one: modern framework, about modern C++. Right in your face.**
+
+[Github Pages Link](https://andreatorti-01.github.io/Cplusplus-intermediate-guide/)
+
+<img src="cpp-website.png" width="500" />
+
+**Second one with some personal recipes. VanillaJS technology. Yes I even like cooking! And yes you can read it too since it's bilingual. Now that I think about it I should do a travel blog too...**
+
+[Netlify Link](https://burro-recipes.netlify.app/index-en)
+
+<img src="burro-recipes.png" width="500" />
 
 ---
 
