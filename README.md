@@ -34,11 +34,11 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **After proper automatic pre-processing of each package profile...**
 
-<img src="bounding box cut and paste.png" width="600" />
+<img src="bounding box cut and paste.png" width="550" />
 
 **The accuracy went to 89% with very good spot detection of defects! Mission accomplished!**
 
-<img src="package 57 with defect detected.jpg" width="400" />
+<img src="package 57 with defect detected.jpg" width="350" />
 
 ---
 
@@ -52,7 +52,7 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **And I trained a tensorflow deep learning model to recognize what the person wearing the arduino was doing! How cool is that? Oh and it runs ON the actual arduino!**
 
-<img src="confusion_matrix.png" width="500" />
+<img src="confusion_matrix.png" width="400" />
 
 ---
 
@@ -64,7 +64,7 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **Oh yeah I took a Vulkan course at university. Here's a little game running on an engine... written from scratch.**
 
-<img src="gif3.gif" width="500" />
+<img src="gif3.gif" width="450" />
 
 ---
 
@@ -72,13 +72,13 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 [Github Pages Link](https://andreatorti-01.github.io/Cplusplus-intermediate-guide/)
 
-<img src="cpp-website.png" width="500" />
+<img src="cpp-website.png" width="600" />
 
 **Second one with some personal recipes. VanillaJS technology. Yes I even like cooking! And yes you can read it too since it's bilingual. Now that I think about it I should do a travel blog too...**
 
 [Netlify Link](https://burro-recipes.netlify.app/index-en)
 
-<img src="burro-recipes.png" width="500" />
+<img src="burro-recipes.png" width="550" />
 
 ---
 
