@@ -44,6 +44,7 @@ Here's a preview of some of my work, but there's always something more that's wo
 
 **Another one! The data you see is from an Arduino's motion sensors.**
 
+<img src="shot.gif" width="400" />
 <img src="pass_shoot.png" width="600" />
 
 **My friend chatgpt wrote some python software to cut 1-second samples...**
